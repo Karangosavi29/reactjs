@@ -3,15 +3,6 @@
 <div align="center">
 
 <!-- TODO: Add a project logo representing React or a learning series to enhance visual appeal -->
-
-[![GitHub stars](https://img.shields.io/github/stars/Karangosavi29/reactjs?style=for-the-badge)](https://github.com/Karangosavi29/reactjs/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/Karangosavi29/reactjs?style=for-the-badge)](https://github.com/Karangosavi29/reactjs/network)
-
-[![GitHub issues](https://img.shields.io/github/issues/Karangosavi29/reactjs?style=for-the-badge)](https://github.com/Karangosavi29/reactjs/issues)
-
-[![GitHub license](https://img.shields.io/github/license/Karangosavi29/reactjs?style=for-the-badge)](LICENSE)
-
 **A comprehensive collection of hands-on projects designed to learn and master React.js fundamentals.**
 
 <!-- TODO: If any individual project is deployed, add live demo links here -->
@@ -216,4 +207,5 @@ For any questions, issues, or feedback regarding this learning series, please ut
 Made with ❤️ by [Karangosavi29](https://github.com/Karangosavi29)
 
 </div>
+
 
